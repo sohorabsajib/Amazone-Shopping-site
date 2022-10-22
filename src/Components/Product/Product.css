@@ -38,6 +38,12 @@
     background: #FFE0B3;
     border: none;
     border-radius: 0px 0px 8px 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn-cart p{
+    margin-right: 5px;
 }
 .btn-cart:hover{
     background-color: orange;

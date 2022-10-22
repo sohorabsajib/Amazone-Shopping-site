@@ -1,0 +1,29 @@
+.header{
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header img{
+    margin-left: 112px;
+    height: 40px;
+    width: 140px;
+
+
+}
+nav div{
+    margin-right: 100px;
+}
+ nav a{
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 17px;
+    margin-left: 32px;
+
+}
+ a:hover{
+    color: orange;
+}

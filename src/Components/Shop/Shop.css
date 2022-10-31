@@ -10,7 +10,7 @@
 }
 .order-container{
     background-color:  #FF99004D;
-    text-align: center;
+    /* text-align: center; */
 }
 @media screen and (max-width:1100px) {
     .products-container{
